@@ -1,0 +1,27 @@
+html{
+    background-color: #AAA;
+}
+body{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    font-family: sans-serif;
+}
+a{
+    color: #E36868;
+}
+a visited{
+    color: #7e4343;
+}
+h1{
+    text-align: center;
+    color: #E36868;
+}
+.page{
+	text-align: right;
+	text-decoration: none;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
